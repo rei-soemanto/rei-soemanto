@@ -20,7 +20,7 @@ I'm a **Full-Stack Web Developer** based in Indonesia.
 <img src="./Swift.svg" height="50" alt="Custom Tool" />
 <img src="./Prisma.svg" height="50" alt="Custom Tool" />
 <img src="./PHP-Dark.svg" height="50" alt="Custom Tool" />
-<img src="./GoLang-Dark.svg" height="50" alt="Custom Tool" />
+<img src="./GoLang.svg" height="50" alt="Custom Tool" />
 
 ---
 
