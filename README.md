@@ -4,7 +4,7 @@
 
 I'm a **Full-Stack Web Developer** based in Indonesia.
 
-💼 Currently working as a **Full-Stack Web Developer** at **PT. Wraksa Kencana Mukti**
+💼 Currently working as a **Full-Stack Web Developer** at **PT. Wraksa Kencana Mukti** <br>
 🎓 Studying **Informatics** at **Universitas Ciputra**
 
 ---
