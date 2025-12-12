@@ -4,8 +4,8 @@
 
 I'm a **Full-Stack Web Developer** based in Indonesia.
 
-- 💼 Currently working as a **Full-Stack Web Developer** at **PT. Wraksa Kencana Mukti**
-- 🎓 Studying **Informatics** at **Universitas Ciputra**
+💼 Currently working as a **Full-Stack Web Developer** at **PT. Wraksa Kencana Mukti**
+🎓 Studying **Informatics** at **Universitas Ciputra**
 
 ---
 
@@ -24,7 +24,7 @@ I'm a **Full-Stack Web Developer** based in Indonesia.
 <a href="https://instagram.com/reresoemanto">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://www.linkedin.com/in/rei-soemanto">
+<a href="https://https://www.linkedin.com/in/rei-soemanto-5258a82a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
