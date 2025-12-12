@@ -9,23 +9,34 @@ I'm a **Full-Stack Web Developer** based in Indonesia.
 
 ---
 
-<img src="./Laravel-Dark.svg" height="20" alt="Custom Tool" />
+<img src="./Laravel-Dark.svg" height="50" alt="Custom Tool" />
+<img src="./Kotlin-Dark.svg" height="50" alt="Custom Tool" />
+<img src="./Kali-Dark.svg" height="50" alt="Custom Tool" />
+<img src="./NodeJS-Dark.svg" height="50" alt="Custom Tool" />
+<img src="./Java-Dark.svg" height="50" alt="Custom Tool" />
+<img src="./JavaScript.svg" height="50" alt="Custom Tool" />
+<img src="./TypeScript.svg" height="50" alt="Custom Tool" />
+<img src="./Python-Dark.svg" height="50" alt="Custom Tool" />
+<img src="./Swift.svg" height="50" alt="Custom Tool" />
+<img src="./Prisma.svg" height="50" alt="Custom Tool" />
+<img src="./PHP-Dark.svg" height="50" alt="Custom Tool" />
+<img src="./GoLang-Dark.svg" height="50" alt="Custom Tool" />
 
 ---
 
 ### 🤝 Connect with Me
 
 <a href="mailto:reresoemanto@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <img src="./Gmail-Dark.svg" height="50" alt="Custom Tool" />
 </a>
-<a href="https://wa.me/6281358800883">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+<a href="https://discordapp.com/users/azmaria.">
+  <img src="./Discord.svg" height="50" alt="Custom Tool" />
 </a>
 <a href="https://instagram.com/reresoemanto">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="./Instagram.svg" height="50" alt="Custom Tool" />
 </a>
 <a href="https://www.linkedin.com/in/rei-soemanto-5258a82a8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="./LinkedIn.svg" height="50" alt="Custom Tool" />
 </a>
 
 </div>
