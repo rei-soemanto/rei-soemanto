@@ -5,7 +5,7 @@
 I'm a **Full-Stack Web Developer** based in Indonesia.
 
 💼 **Full-Stack Web Developer** at **PT. Wraksa Kencana Mukti** <br>
-💼 Part of **DEVO** at **The Development Evolution** <br>
+💼 Part of **DEVO, The Development Evolution** <br>
 🎓 Studying **Informatics** at **Universitas Ciputra**
 
 ---
