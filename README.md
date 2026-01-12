@@ -17,6 +17,7 @@ I'm a **Full-Stack Web Developer** based in Indonesia.
 <img src="./Java-Dark.svg" height="50" alt="Custom Tool" />
 <img src="./JavaScript.svg" height="50" alt="Custom Tool" />
 <img src="./TypeScript.svg" height="50" alt="Custom Tool" />
+<img src="./React-Dark.svg" height="50" alt="Custom Tool" />
 <img src="./Python-Dark.svg" height="50" alt="Custom Tool" />
 <img src="./Swift.svg" height="50" alt="Custom Tool" />
 <img src="./Prisma.svg" height="50" alt="Custom Tool" />
