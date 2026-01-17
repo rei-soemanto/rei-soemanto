@@ -6,6 +6,7 @@ I'm a **Full-Stack Web Developer** based in Indonesia.
 
 💼 **Full-Stack Web Developer** at **PT. Wraksa Kencana Mukti** <br>
 💼 Part of **DEVO, The Development Evolution** <br>
+💼 Founder of **NFC Konekt, Digital Business Card** <br>
 🎓 Studying **Informatics** at **Universitas Ciputra**
 
 ---
